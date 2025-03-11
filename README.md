@@ -33,7 +33,7 @@ Make sure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/castell482/devMegared.git
-cd unbc_abm
+cd devMegared
 ```
 
 2. **Configure Environment Variables**:
